@@ -1,0 +1,1 @@
+Este es un repositorio en el que subiré ejercicios resueltos de la asignatura de análisis numérico de la carrera de Lic. en matemáticas aplicadas - FaMAF
